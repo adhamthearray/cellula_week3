@@ -1,0 +1,123 @@
+RYAN GOSLING KNOWLEDGE BASE
+============================
+This document contains structured biographical and career information about actor Ryan Gosling, intended for use as source material in a retrieval-augmented generation (RAG) system.
+
+SECTION 1: BASIC BIOGRAPHY
+---------------------------
+Ryan Thomas Gosling was born on November 12, 1980, in London, Ontario, Canada. He grew up moving between various towns in Ontario and Alberta due to his father's job, and he was largely homeschooled by his mother for part of his childhood. Gosling has a sister, Mandi Gosling. He began performing at a young age, entering talent competitions before landing a spot on the Disney Channel's "The Mickey Mouse Club" at around age 12-13, where he appeared alongside future stars such as Britney Spears, Christina Aguilera, and Justin Timberlake.
+
+Gosling later moved to Los Angeles to pursue acting full time. He is known for being a private individual who avoids much of the traditional celebrity spotlight, rarely giving deeply personal interviews about his family life.
+
+Gosling has been in a long-term relationship with actress Eva Mendes. The two met on the set of the 2012 crime drama "The Place Beyond the Pines," directed by Derek Cianfrance. They have two daughters together, Esmeralda Amada (born 2014) and Amada Lee (born 2016). The couple keeps their family life largely out of the public eye and are rarely photographed together at public events.
+
+Aside from acting, Gosling has musical interests. He was part of a band called Dead Man's Bones, formed with actor Zach Shields, which released a self-titled album in 2009 featuring a children's choir, and the band toured parts of North America. Gosling is also a co-owner of Tagine, a Moroccan restaurant in Beverly Hills, California.
+
+SECTION 2: EARLY TELEVISION CAREER
+------------------------------------
+Before becoming a film star, Gosling worked steadily in television during the 1990s. His notable early credits include:
+- "The Mickey Mouse Club" (1993-1995), a Disney Channel variety show for young performers.
+- "Are You Afraid of the Dark?" (1995), a Nickelodeon horror anthology series for children.
+- "Goosebumps" (1995), a horror anthology series based on the R.L. Stine book series.
+- "Breaker High" (1997-1998), a Canadian teen sitcom set on a cruise ship, where Gosling had a starring role.
+- "Young Hercules" (1998-1999), a fantasy-adventure series in which Gosling played the title role, a teenage version of Hercules.
+
+These roles helped Gosling build early recognition before he transitioned into film in the early 2000s.
+
+SECTION 3: BREAKTHROUGH AND EARLY FILM CAREER (2001-2006)
+------------------------------------------------------------
+Gosling's move into film began with smaller, character-driven projects that showcased his dramatic range rather than pursuing typical teen-idol roles.
+
+"The Believer" (2001) was an early dramatic role in which Gosling played a Jewish man who becomes a neo-Nazi, a performance that drew critical attention for its intensity.
+
+"Murder by Numbers" (2002) was a mainstream thriller co-starring Sandra Bullock, giving Gosling more visibility in a studio production.
+
+"The United States of Leland" (2003) further established him in serious independent drama.
+
+"The Notebook" (2004) became Gosling's breakout mainstream success. Based on Nicholas Sparks' novel and directed by Nick Cassavetes, the romantic drama paired Gosling with Rachel McAdams. The film became a cultural touchstone for the romance genre and turned Gosling into a widely recognized leading man, even though the production itself was famously difficult, with Gosling and McAdams reportedly clashing on set before eventually forming a real-life relationship after filming.
+
+"Half Nelson" (2006) marked a major critical milestone. Gosling played a middle school teacher struggling with drug addiction, a performance that earned him his first Academy Award nomination for Best Actor, cementing his reputation as a serious dramatic actor rather than solely a romantic leading man.
+
+SECTION 4: INDEPENDENT FILM PHASE (2007-2010)
+-------------------------------------------------
+Following his Oscar nomination, Gosling continued to choose unconventional, character-driven roles in smaller films.
+
+"Lars and the Real Girl" (2007) featured Gosling as a socially withdrawn man who develops a relationship with a life-sized doll, a role praised for its sensitivity and restraint.
+
+"Fracture" (2007), directed by Gregory Hoblit, was a legal thriller in which Gosling played an ambitious young Los Angeles district attorney facing off against Anthony Hopkins' character, a wealthy structural engineer who confesses to attempting to murder his wife but crafts an elaborate scheme to avoid conviction. The film was praised for the tense courtroom dynamic between Gosling and Hopkins and served as another example of Gosling taking on morally complex, dialogue-driven roles during this period.
+
+"Blue Valentine" (2010), directed by Derek Cianfrance, examined the rise and collapse of a marriage through a non-linear narrative, with Gosling starring opposite Michelle Williams. The film was noted for its raw, improvisational-feeling performances and earned significant critical acclaim.
+
+This period established Gosling as an actor willing to take artistic risks in low-budget, emotionally demanding projects rather than chasing blockbuster roles exclusively.
+
+SECTION 5: RISE TO LEADING MAN STATUS (2011-2013)
+------------------------------------------------------
+The early 2010s were a turning point where Gosling became a bona fide Hollywood leading man across multiple genres in a single, highly productive stretch.
+
+"Crazy, Stupid, Love." (2011) was a romantic comedy co-starring Steve Carell, Julianne Moore, and Emma Stone. Gosling played a smooth, style-conscious bachelor, and the film was a commercial success that showcased his comedic timing.
+
+"Drive" (2011), directed by Nicolas Winding Refn, is one of Gosling's most iconic roles. He played a nameless Hollywood stunt driver who moonlights as a getaway driver for criminals. The film's stylized visuals, minimalist dialogue, and synth-heavy soundtrack made it a cult classic and one of the defining films of Gosling's career.
+
+"The Ides of March" (2011), directed by and co-starring George Clooney, was a political drama in which Gosling played an idealistic campaign staffer confronting corruption.
+
+"The Place Beyond the Pines" (2012) reunited Gosling with director Derek Cianfrance in a multi-generational crime drama. This is also the film on which Gosling met Eva Mendes.
+
+"Gangster Squad" (2013) was a stylized crime film set in 1940s Los Angeles, co-starring Sean Penn and Emma Stone, though it received a mixed critical reception.
+
+"Only God Forgives" (2013) reunited Gosling with director Nicolas Winding Refn for a violent, atmospheric crime thriller set in Thailand. It was divisive among critics but reinforced Gosling's willingness to work with auteur directors on unconventional material.
+
+SECTION 6: DIRECTORIAL WORK AND CAREER PAUSE
+------------------------------------------------
+In 2014, Gosling made his directorial debut with "Lost River," a dark fairy-tale drama that he also wrote. The film premiered at the Cannes Film Festival but received a largely negative critical reception. Following this, Gosling took a step back from acting for a period, later stating in interviews that he wanted to spend more time with his family after becoming a father.
+
+SECTION 7: RETURN TO PROMINENCE (2015-2019)
+-----------------------------------------------
+Gosling returned to acting with a string of critically and commercially notable films.
+
+"The Big Short" (2015) was an ensemble drama-comedy about the 2008 financial crisis, based on Michael Lewis's book. Gosling played a cynical bond trader, part of a cast that included Christian Bale, Steve Carell, and Brad Pitt. The film won the Academy Award for Best Adapted Screenplay.
+
+"The Nice Guys" (2016) was a buddy action-comedy directed by Shane Black, co-starring Russell Crowe. Gosling played a bumbling private investigator in 1970s Los Angeles, and the film is often cited as an underappreciated showcase of his comedic ability.
+
+"La La Land" (2016), directed by Damien Chazelle, is one of Gosling's most celebrated films. A modern movie musical co-starring Emma Stone, it follows the romance between a jazz pianist and an aspiring actress in Los Angeles. The film was a massive critical and awards success, earning multiple Academy Awards, and Gosling received a Golden Globe Award for Best Actor in a Musical or Comedy for his performance, along with an Academy Award nomination.
+
+"Blade Runner 2049" (2017), directed by Denis Villeneuve, was a big-budget sequel to the original 1982 "Blade Runner." Gosling starred as K, a replicant blade runner, in a film praised for its visuals and atmosphere, directed toward a more contemplative science-fiction sensibility.
+
+"First Man" (2018), also directed by Damien Chazelle, was a biographical drama about astronaut Neil Armstrong and the Apollo 11 mission, with Gosling in the lead role. The film focused heavily on the personal and emotional toll of the space race rather than pure spectacle.
+
+SECTION 8: BLOCKBUSTER AND STREAMING ERA (2020-PRESENT)
+------------------------------------------------------------
+"The Gray Man" (2022), directed by Anthony and Joe Russo, was a big-budget Netflix action thriller in which Gosling played a CIA operative code-named "Sierra Six." The film was a major streaming success and led to a planned sequel, "The Gray Man: On Target," expected to continue the story with the Russo brothers returning to direct.
+
+"Barbie" (2023), directed by Greta Gerwig, became a cultural phenomenon and one of the highest-grossing films of the year worldwide. Gosling played Ken opposite Margot Robbie's Barbie. His performance, particularly the character's musical number "I'm Just Ken," was widely praised and became a viral cultural moment. "Barbie" stands as Gosling's highest-grossing release to date and earned him renewed mainstream popularity along with award nominations.
+
+"The Fall Guy" (2024) was an action-comedy inspired loosely by the 1980s TV series of the same name. Gosling played a stuntman drawn into a mystery while working on a film production, co-starring Emily Blunt. The film served as something of a tribute to stunt performers in the film industry, and Gosling also produced the film.
+
+"Project Hail Mary" (2026), directed by Phil Lord and Christopher Miller, is a science-fiction film based on Andy Weir's popular novel of the same name. Gosling played Dr. Ryland Grace, a science teacher who wakes up alone on a spacecraft with no memory of his mission and must piece together how to save humanity. The film also starred Sandra Hüller and premiered in London in March 2026 before its U.S. theatrical release later that month. It performed strongly at the box office and continued Gosling's recent run of high-profile leading roles. Gosling also served as a producer on the film.
+
+SECTION 9: UPCOMING AND ANNOUNCED PROJECTS (AS OF MID-2026)
+-----------------------------------------------------------------
+"Star Wars: Starfighter" is an announced standalone entry in the Star Wars franchise, with Gosling attached to star. The project is expected for release around 2027, and Gosling has spoken publicly about his enthusiasm for working within the space and science-fiction genres.
+
+"Tough Guys" is an announced action-comedy for Amazon MGM Studios, pairing Gosling with Will Ferrell. The story follows two aging henchmen who attempt to break away from organized crime and live life on their own terms.
+
+"The Gray Man: On Target" is a planned sequel to "The Gray Man," with Gosling expected to reprise his role as Sierra Six and the Russo brothers returning to direct, based on Mark Greaney's novel "On Target."
+
+Note: Some previously reported or rumored projects, such as an untitled film with directors Daniel Kwan and Daniel Scheinert, have reportedly fallen through or changed, and project details for films still in development can shift over time.
+
+SECTION 10: AWARDS AND RECOGNITION
+--------------------------------------
+Gosling has received multiple Academy Award nominations for Best Actor, including for "Half Nelson" (2006) and "La La Land" (2016), as well as a supporting nomination for "Barbie" (2023). He won a Golden Globe Award for Best Actor in a Motion Picture - Musical or Comedy for "La La Land." He has also received nominations from the Screen Actors Guild Awards and BAFTA over the course of his career. Critics frequently note his versatility, moving between romantic dramas, comedies, action films, and prestige awards fare.
+
+SECTION 11: NOTABLE COLLABORATORS
+--------------------------------------
+Gosling has developed recurring creative partnerships throughout his career:
+- Director Derek Cianfrance: "Blue Valentine" (2010) and "The Place Beyond the Pines" (2012).
+- Director Nicolas Winding Refn: "Drive" (2011) and "Only God Forgives" (2013).
+- Director Damien Chazelle: "La La Land" (2016) and "First Man" (2018).
+- Actress Emma Stone: "Crazy, Stupid, Love." (2011), "Gangster Squad" (2013), and "La La Land" (2016).
+- Directors Anthony and Joe Russo: "The Gray Man" (2022) and its planned sequel.
+
+SECTION 12: SUMMARY CHARACTERIZATION
+----------------------------------------
+Across more than two decades in the industry, Ryan Gosling has built a career defined by movement between small independent dramas and major studio productions. He is recognized for choosing roles that avoid easy typecasting, alternating between brooding, minimalist performances (such as "Drive" and "Blade Runner 2049") and broadly comedic or musical roles (such as "The Nice Guys," "La La Land," and "Barbie"). This combination of range, box-office draw, and critical respect has made him one of the most consistently working and well-regarded actors of his generation.
+
+END OF DOCUMENT
