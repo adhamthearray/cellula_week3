@@ -1,0 +1,2 @@
+2026-08-04 22:06:41,834 INFO Rebuilt Chroma DB with 370 chunks
+2026-08-04 22:14:44,030 WARNING Document retrieval failed: 'VectorStoreRetriever' object has no attribute 'get_relevant_documents'
