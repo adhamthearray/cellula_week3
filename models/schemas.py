@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Any, List, Optional
 
 from pydantic import BaseModel, Field
 
@@ -23,3 +23,27 @@ class ChatResponse(BaseModel):
     answer: str
     retrieved_docs: List[dict]
     execution_result: str
+
+
+class DatasetUploadResponse(BaseModel):
+    dataset_id: str
+    filename: str
+    table_name: str
+    rows: int
+    columns: List[str]
+
+
+class TextAnalysisRequest(BaseModel):
+    dataset_id: str = Field(..., min_length=1)
+    query: str = Field(..., min_length=1)
+
+
+class DataAnalysisResponse(BaseModel):
+    dataset_id: str
+    query: str
+    transcription: Optional[str] = None
+    generated_sql: str
+    columns: List[str]
+    rows: List[dict[str, Any]]
+    row_count: int
+    analysis: str

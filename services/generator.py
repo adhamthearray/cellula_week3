@@ -15,21 +15,25 @@ class CodeGenerator:
         self.api_key = api_key or settings.OPENROUTER_API_KEY
 
     def generate(self, prompt: str, context: Optional[List[str]] = None) -> str:
-        if not self.api_key:
-            return "OpenRouter API key is not configured. Please set OPENROUTER_API_KEY in the environment."
-
         context_text = ""
         if context:
             context_text = "\n\n".join(context)
 
+        return self.complete(
+            "You are an expert software engineer. Generate the requested code. Use the retrieved context. If information is missing say so. Do not hallucinate.",
+            f"Prompt:\n{prompt}\n\nRetrieved Context:\n{context_text}",
+        )
+
+    def complete(self, system_prompt: str, user_prompt: str) -> str:
+        """Complete an arbitrary prompt using the shared OpenRouter configuration."""
+        if not self.api_key:
+            return "OpenRouter API key is not configured. Please set OPENROUTER_API_KEY in the environment."
+
         payload = {
             "model": settings.MODEL_NAME,
             "messages": [
-                {
-                    "role": "system",
-                    "content": "You are an expert software engineer. Generate the requested code. Use the retrieved context. If information is missing say so. Do not hallucinate.",
-                },
-                {"role": "user", "content": f"Prompt:\n{prompt}\n\nRetrieved Context:\n{context_text}"},
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
             ],
         }
         try:

@@ -3,11 +3,15 @@ setlocal
 cd /d "%~dp0"
 if not exist .venv\Scripts\python.exe (
     echo Creating virtual environment...
-    py -3.12 -m venv .venv
+    py -3.13 -m venv .venv
 )
 call .venv\Scripts\activate
+python -m pip install --upgrade pip
+if errorlevel 1 exit /b 1
 python -m pip install -r requirements.txt
+if errorlevel 1 exit /b 1
 python ingestion/ingest.py
+if errorlevel 1 exit /b 1
 start "FastAPI" .venv\Scripts\python.exe -m uvicorn main:app --host 127.0.0.1 --port 8001
 start "Streamlit" .venv\Scripts\python.exe -m streamlit run frontend/streamlit_app.py
 echo.
